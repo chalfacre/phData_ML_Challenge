@@ -1,0 +1,38 @@
+{
+  "predict": {
+    "model_version": "1.0.0",
+    "prediction_count": 5,
+    "predictions": [
+      368140.8808153847,
+      642521.078804762,
+      289087.45251767687,
+      566703.2357291483,
+      253883.70385000022
+    ],
+    "metadata": {
+      "timestamp_utc": "2026-03-29T21:59:59.037878+00:00",
+      "endpoint": "/predict",
+      "demographics_joined_backend": true,
+      "required_columns": [
+        "bedrooms",
+        "bathrooms",
+        "sqft_living",
+        "sqft_lot",
+        "floors",
+        "waterfront",
+        "view",
+        "condition",
+        "grade",
+        "sqft_above",
+        "sqft_basement",
+        "yr_built",
+        "yr_renovated",
+        "zipcode",
+        "lat",
+        "long",
+        "sqft_living15",
+        "sqft_lot15"
+      ]
+    }
+  }
+}
