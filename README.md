@@ -17,9 +17,6 @@ This repository implements a complete solution for the ML engineering challenge:
 - `scripts/evaluate_model.py` - baseline vs improved model metrics
 - `scripts/test_api.py` - submits sample records from future examples
 - `experiments/` - exploratory model-selection scripts (not part of serving path)
-- `docs/scaling_and_model_update_strategy.md` - scale and no-downtime model update strategy
-- `docs/client_presentation_outline.md` - non-technical 15-min deck outline
-- `docs/technical_presentation_outline.md` - technical 15-min deep-dive outline
 
 ## 2) API Endpoints
 
