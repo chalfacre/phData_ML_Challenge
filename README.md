@@ -117,9 +117,3 @@ black --check app scripts tests
 pytest
 ```
 
-## 8) Production Considerations
-
-See `docs/scaling_and_model_update_strategy.md` for:
-- horizontal scaling approach
-- no-downtime model update pattern
-- recommended monitoring and MLOps controls
