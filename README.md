@@ -7,7 +7,6 @@ This repository implements a complete solution for the ML engineering challenge:
 - Dockerized deployment
 - Test script that calls endpoints with provided future examples
 - Model evaluation and basic model improvements
-- Business + technical presentation outlines
 
 ## 1) Project Structure
 
